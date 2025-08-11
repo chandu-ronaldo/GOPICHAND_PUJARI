@@ -37,7 +37,7 @@ public class Program_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Take inputs
+       
         System.out.print("enter the  number (a): ");
         double a = sc.nextDouble();
 
@@ -58,3 +58,4 @@ public class Program_1 {
         sc.close();
     }
 }
+
